@@ -1,1 +1,7 @@
+Data project - Predicting customer churn rate for US telecommunications company
 
+In this project I will investigate data from a US telecomunications comapany and utilize machine learning to predict customer churn. The dataset is a sample dataset from an unnamed company accessed through Kaggle.com. The dataset is open-source and made available by u/Mobius.
+
+In competitive service-provider industries such as telecommunications, research has suggested it is frequently the case that increasing the retention period of existing customers can provide a greater ROI compared to alternative revenue-increasing strategies.
+
+Provided a situation where historical data is made available on customer characteristics for both churned and retained customers, predicting customer churn is a binary classification problem. Utilizing modern machine learning methods can therefore be a valuable resource in understanding key features that are associated with customer churn, and assist with identifying customers who are likely candidates.
