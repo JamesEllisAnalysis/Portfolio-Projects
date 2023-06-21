@@ -1,1 +1,14 @@
+# Project: Analysis with SQL
+
+## 5. List the cities with the most reviews in descending order:
+
+### SQL code used to arrive at answer:
+
+```sql
+SELECT city, SUM(review_count) as total_reviews
+FROM
+business
+GROUP BY
+city
+ORDER BY 2 DESC
 
